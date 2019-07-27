@@ -6,5 +6,5 @@ Sample data
 3. keylogging
 4. ls
 5. htop
-
+6. netstat
 
